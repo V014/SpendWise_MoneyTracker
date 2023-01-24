@@ -27,15 +27,16 @@ It uses basic business formulas to solve mathematical problems you should have b
 - Recall UI customization 
 
 ## The main Dashboard 
-This is the full UI on a generic display, UI may vary depending on screen size and resolution 
+This is the full UI on a generic display, UI may vary depending on screen size and resolution.
+
 ![This is an image](https://github.com/V014/SpendWise_MoneyTracker/blob/main/res/screenshots/SpendWise-Max.png)
 
 ## The medium Dashboard 
-This is the UI when partially sized to focus on two programs while spendwise being dominant
+This is the UI when partially sized to focus on two programs while spendwise being dominant.
+
 ![This is an image](https://github.com/V014/SpendWise_MoneyTracker/blob/main/res/screenshots/SpendWise-Mid.png)
 
 ## The mini Dashboard 
 This is the most discreet SpendWise can be without loosing its main functionality and at the same time get out of your way. 
-![This is an image](https://github.com/V014/SpendWise_MoneyTracker/blob/main/res/screenshots/SpendWise-Mini.png)
 
-res/screenshots/
+![This is an image](https://github.com/V014/SpendWise_MoneyTracker/blob/main/res/screenshots/SpendWise-Mini.png)
